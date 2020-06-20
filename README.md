@@ -1,0 +1,2 @@
+# DOM
+ajax method
